@@ -1,4 +1,4 @@
-# TEDIT 8.0 ENGLISH Version pour ETS 1.33
+# TEDIT 8.0 ENGLISH Version for ETS 1.33
 
 > Attention!
 TEDIT is intended for advanced users only.
