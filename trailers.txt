@@ -1,25 +1,29 @@
-Aero dynamic,/def/vehicle/trailer/aero_dynamic/chassis.sii,3,/def/vehicle/t_wheel/single.sii,42000
-Car transporter,/def/vehicle/trailer/car_transporter/chassis.sii,2,/def/vehicle/t_wheel/cartrans.sii,52000
-Cement cistern,/def/vehicle/trailer/cement/chassis.sii,3,/def/vehicle/t_wheel/single.sii,51000
-Cement mixer,/def/vehicle/trailer/cement_mixer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,30000
-Chemical cistern,/def/vehicle/trailer/chemical_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,62000
-Flat bed,/def/vehicle/trailer/flat_bed/chassis.sii,3,/def/vehicle/t_wheel/single.sii,20000
-Food cistern,/def/vehicle/trailer/food_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,57000
-Fuel cistern,/def/vehicle/trailer/fuel_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,52000
-Glass trailer,/def/vehicle/trailer/glass_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,70000
-Gooseneck,/def/vehicle/trailer/gooseneck/chassis.sii,3,/def/vehicle/t_wheel/single.sii,27000,/def/vehicle/trailer/gooseneck/empty.sii
-Krone Cool Liner,/def/vehicle/trailer/krone/coolliner/chassis.sii,3,/def/vehicle/t_wheel/single.sii,49000
-Krone Fridge,/def/vehicle/trailer/krone/fridge/chassis.sii,3,/def/vehicle/t_wheel/385_65_r22_5.sii,38000
-Krone Profi Liner,/def/vehicle/trailer/krone/profiliner/chassis.sii,3,/def/vehicle/t_wheel/single.sii,30000
-Livestock,/def/vehicle/trailer/livestock/chassis.sii,3,/def/vehicle/t_wheel/single.sii,120000
-Log trailer,/def/vehicle/trailer/log_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,37000
-Overweight,/def/vehicle/trailer/overweight/chassis.sii,3,/def/vehicle/t_wheel/overweight.sii,42000
-Panel transporter,/def/vehicle/trailer/panel_transporter/chassis.sii,2,/def/vehicle/t_wheel/single.sii,15000
-Schmitz S.KI Solid,/def/vehicle/trailer/s_ki_solid/chassis.sii,3,/def/vehicle/t_wheel/single.sii,35000
-Schmitz Universal,/def/vehicle/trailer/schmitz/universal/chassis.sii,3,/def/vehicle/t_wheel/385_65_r22_5.sii,32000
-Schwarzmuller Curtain,/def/vehicle/trailer/schw_curtain/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,38000
-Schwarzmuller Food cistern,/def/vehicle/trailer/schw_cistern_food/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,59000
-Schwarzmuller Log trailer,/def/vehicle/trailer/schw_slidepost/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,41000
-Schwarzmuller Overweight,/def/vehicle/trailer/schw_overweight/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/overweight.sii,45000
-Schwarzmuller Reefer,/def/vehicle/trailer/schw_reefer/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,54000
-Truck transporter,/def/vehicle/trailer/truck_transporter/chassis.sii,3,/def/vehicle/t_wheel/single.sii,59000
+[Officiel] Cement Mixer,/def/vehicle/trailer/cement_mixer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,30000
+[Official] Ciment Trailer,/def/vehicle/trailer/cement/chassis.sii,3,/def/vehicle/t_wheel/single.sii,51000
+[Official] Truck Trailer,/def/vehicle/trailer/truck_transporter/chassis.sii,3,/def/vehicle/t_wheel/single.sii,59000
+[Official] Car Trailer,/def/vehicle/trailer/car_transporter/chassis.sii,2,/def/vehicle/t_wheel/cartrans.sii,52000
+[Official] Chimic Trailer,/def/vehicle/trailer/chemical_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,62000
+[Official] Food Trailer,/def/vehicle/trailer/food_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,57000
+[Official] Fuel Trailer,/def/vehicle/trailer/fuel_cistern/chassis.sii,3,/def/vehicle/t_wheel/single.sii,52000
+[Official] Glass Trailer ,/def/vehicle/trailer/glass_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,70000
+[Official] Cow Trailer,/def/vehicle/trailer/livestock/chassis.sii,3,/def/vehicle/t_wheel/single.sii,120000
+[Official] Wood Trailer,/def/vehicle/trailer/log_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,37000
+[Official] Overweight Trailer,/def/vehicle/trailer/overweight/chassis.sii,3,/def/vehicle/t_wheel/overweight.sii,42000
+[Official] Deck Trailer,/def/vehicle/trailer/panel_transporter/chassis.sii,2,/def/vehicle/t_wheel/single.sii,15000
+[Official] Tipper Schmitz S.KI Solid,/def/vehicle/trailer/s_ki_solid/chassis.sii,3,/def/vehicle/t_wheel/single.sii,35000
+[Official] Tipper Schmitz Universal,/def/vehicle/trailer/schmitz/universal/chassis.sii,3,/def/vehicle/t_wheel/385_65_r22_5.sii,32000
+[NewOfficial] Tray with sideboards,/def/vehicle/trailer/brick_trailer/chassis.sii,3,/def/vehicle/t_wheel/single.sii,44200
+[NewOfficial] Van Trailer,/def/vehicle/trailer/van_transporter/chassis.sii,3,/def/vehicle/t_wheel/cartrans.sii,59000,/def/vehicle/trailer/van_transporter/iveco_daily.sii
+[NewOfficial] Fuel Trailer,/def/vehicle/trailer/willig/fuel_cistern/chassis.sii,3,/def/vehicle/t_wheel/single_385_55_steel.sii,69000
+[DLC] Krone BoxLiner,/def/vehicle/trailer/krone/boxliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,41000
+[DLC] Krone CoolLiner,/def/vehicle/trailer/krone/coolliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,49000
+[DLC] Krone Dryliner,/def/vehicle/trailer/krone/coolliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,53000
+[DLC] Krone ProfiLiner,/def/vehicle/trailer/krone/profiliner/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,30000
+[DLC] Krone ProfiLiner HD,/def/vehicle/trailer/krone/profiliner_hd/chassis.sii,3,/def/vehicle/t_wheel/krone_385_65_r22_5.sii,30000
+[DLC] Schwarzmuller Curtain,/def/vehicle/trailer/schw_curtain/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,38000
+[DLC] Schwarzmuller Food cistern,/def/vehicle/trailer/schw_cistern_food/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,59000
+[DLC] Schwarzmuller Log trailer,/def/vehicle/trailer/schw_slidepost/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,41000
+[DLC] Schwarzmuller Overweight,/def/vehicle/trailer/schw_overweight/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/overweight.sii,45000
+[DLC] Schwarzmuller Reefer,/def/vehicle/trailer/schw_reefer/chassis.dlc_schwarzmuller.sii,3,/def/vehicle/t_wheel/single.sii,54000
+[OWNED] Tray Attachable,/def/vehicle/trailer_owned/scs.flatbed/chassis/ch_3_hook.sii,3,/def/vehicle/t_wheel/single.sii,90000,/def/vehicle/trailer_owned/scs.flatbed/data.sii
+[OWNED] Update later another trailer & chassis
